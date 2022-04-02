@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asesment 1 Pyramid Volume</string>
+    <string name="pyramid_volume">Pyramid Volume</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="calculate">Calculate</string>
+    <string name="resault">Resault</string>
+
+</resources>
